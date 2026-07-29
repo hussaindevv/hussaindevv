@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussain
 
-<!--
-**hussaindevv/hussaindevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cybersecurity Analyst from Pakistan with a strong passion for Blue Team operations, threat detection, and defensive security.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🛡️ Learning SOC operations through TryHackMe
+* 🐍 Improving my Python skills for automation and security
+* 🐧 Using Linux as my primary operating system
+* 📂 Building cybersecurity projects and documenting my learning journey
+
+### 🎯 Goals
+
+* Land my first SOC Analyst role
+* Earn industry-recognized cybersecurity certifications
+* Contribute to open-source security tools
+* Share useful cybersecurity projects with the community
+
+### 🛠️ Tech Stack
+
+* Linux
+* Python
+* Git & GitHub
+* Networking
+* Bash
+
+> *"Stay curious. Keep learning. Build every day."*
