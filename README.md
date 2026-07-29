@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hussain
 
-I'm an aspiring Cybersecurity Analyst from Pakistan with a strong passion for Blue Team operations, threat detection, and defensive security.
+I'm an aspiring Cybersecurity Analyst with a strong passion for Blue Team operations, threat detection, and defensive security.
 
 ### 🚀 Currently Working On
 
